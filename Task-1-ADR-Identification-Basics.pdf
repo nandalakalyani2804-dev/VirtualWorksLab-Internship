@@ -1,0 +1,23 @@
+ADR Identification Report
+
+Patient: Female, 45 years
+Diagnosis: Mucinous cystadenoma of ovary
+Suspected drug: Augmentin 625 mg
+Generic: Amoxicillin + Clavulanic acid
+Suspected ADR: White vaginal discharge
+
+1. Description of ADR
+
+The patient developed white vaginal discharge during the treatment period. Augmentin contains a broad-spectrum antibiotic combination that can disturb the normal vaginal flora and may predispose to Candida overgrowth, resulting in vulvovaginal candidiasis.
+
+2. Suspected Drug
+
+Augmentin (Amoxicillin + Clavulanic acid)
+
+3. Possible Mechanism
+
+Broad-spectrum antibiotics can suppress normal protective bacterial flora. This alteration of the vaginal microbiota may allow Candida species to proliferate, potentially causing vulvovaginal candidiasis and white vaginal discharge.
+
+4.Relationship between drug and the adverse effect 
+
+The treatment chart documents Augmentin administration during the patient's hospital stay, and white vaginal discharge was subsequently documented. This provides a temporal association between drug exposure and the suspected reaction.
